@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  line-height: normal;
+  max-width: 1560px;
+  display: flex;
+  
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #1e1e1e;
+  --color-black: #000;
+  --color-lavender: #d2d4f2;
+  --color-mediumslateblue: #656cec;
+
+  /* border radiuses */
+  --br-base: 16px;
+
+}
